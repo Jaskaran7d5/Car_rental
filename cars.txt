@@ -1,0 +1,8 @@
+0 Tata Nexon Grey Good E0 2022 1250 20240720
+1 Hyundai i20 White Good C0 2021 1150 20240718
+2 Maruti Swift Red Doable M 2020 950 20200000
+3 Honda City Silver Good C4 2023 1450 20240801
+4 Kia Sonet Blue Good M 2021 1300 20200000
+5 Mahindra Thar Black Good M 2023 2000 20200000
+6 Skoda Rapid Green Doable M 2019 900 20200000
+7 Toyota Glanza Red Good M 2022 1100 20200000
